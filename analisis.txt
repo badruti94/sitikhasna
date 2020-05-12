@@ -1,0 +1,26 @@
+login sebagai
+dosen
+-bisa mengajukan pembuatan email, bisa memantau status pada proses pembuatan
+admin
+-crud
+
+
+tampilan awal
+tampilan login
+
+
+admin
+-kelola user: crud
+-kelola pengajuan email : read, delete, setujui
+-pengajuan yang telah disetujui
+
+dosen
+pengajuan email: create, read 
+
+
+
+//yang belum
+ganti template admin
+pp admin di login sebagai dosen
+
+
